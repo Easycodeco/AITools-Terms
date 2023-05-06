@@ -1,4 +1,4 @@
-# Hzomk-TermsOfService
+# AITools-TermsOfService
 
 Terms of Service
 
