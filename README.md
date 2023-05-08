@@ -1,4 +1,4 @@
-# AITools-TermsOfService
+# Tols-TermsOfService
 
 Terms of Service
 
